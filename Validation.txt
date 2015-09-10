@@ -1,0 +1,5 @@
+Username validation
+Password
+Email
+Confirm Password
+Phone
